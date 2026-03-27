@@ -1,0 +1,11 @@
+{
+  "domain": "irish_tides",
+  "name": "Irish Tide Times",
+  "version": "1.0.0",
+  "documentation": "https://github.com/designwiz/irish_tides",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "cloud_polling",
+  "config_flow": false
+}

@@ -24,9 +24,8 @@ coastal locations with accurate harmonic tide predictions.
 
 1. Go to [https://www.worldtides.info/developer](https://www.worldtides.info/developer)
 2. Sign up for a free account
-3. Free tier: **500 credits/month**
-4. Each poll uses ~2 credits. At 30-min intervals ≈ 96 polls/day = ~5,760/month
-   - **Tip:** Set `scan_interval: 3600` (hourly) to use ~1,440 credits/month — well within the free tier.
+3. Each poll uses ~2 credits. At 30-min intervals ≈ 96 polls/day = ~5,760/month
+   - **Tip:** Set `scan_interval: 86400` (daily) to use ~62 credits/month.
 
 ### Step 2 — Copy the Integration Files
 
